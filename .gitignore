@@ -1,0 +1,6 @@
+.DS_Store
+metta.sublime-workspace
+node_modules/*
+public/tmp
+*.log
+.meteor/local
